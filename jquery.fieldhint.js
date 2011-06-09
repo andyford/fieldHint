@@ -1,6 +1,6 @@
 /*!
  * fieldHint jQuery Plugin
- * Examples and documentation at: http://aloestudios.com/tools/jquery/fieldhint/
+ * Examples and documentation at: http://fordinteractive.com/tools/jquery/fieldhint/
  * Copyright (c) 2010 Andy Ford
  * Version: 1.0 (2010-06-01)
  * Dual licensed under the MIT and GPL licenses:
